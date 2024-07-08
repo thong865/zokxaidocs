@@ -1,6 +1,8 @@
 <script>
+	import { injectSpeedInsights } from '@vercel/speed-insights/sveltekit';
 	import Header from './Header.svelte';
 	import '../app.css';
+	injectSpeedInsights();
 </script>
 
 <div class="app">
