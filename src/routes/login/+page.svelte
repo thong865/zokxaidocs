@@ -95,15 +95,3 @@
         </div>
     </div>
 </div>
-
-<style lang="scss">
-    // .rvl-icon-tag {
-    //     background-color: aqua;
-    //     border-radius: 100%;
-    //     width: 60px;
-    //     display: flex;
-    //     align-items: center;
-    //     justify-content: center;
-    //     height: 60px;
-    // }
-</style>
