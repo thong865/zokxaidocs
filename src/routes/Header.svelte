@@ -51,7 +51,7 @@
 					{/each}
 				</ul>
 			</div>
-			<a href="/" class="btn btn-ghost text-xl">ZOKXAY</a>
+			<a href="/" class="btn btn-ghost text-xl">ZXF|ຫ້ອງແຖວໂຊກໄຊ</a>
 		</div>
 		<div class="navbar-center hidden lg:flex">
 			<ul class="menu menu-horizontal px-1">
